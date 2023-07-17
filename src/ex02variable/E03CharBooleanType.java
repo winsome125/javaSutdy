@@ -3,7 +3,6 @@ package ex02variable;
 public class E03CharBooleanType {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/*
 		 char형 : 하나의 문자를 저장할 수 있는 자료형으로 값을 저장할때 '(Single quotation)으로 감싸서 표현하다.

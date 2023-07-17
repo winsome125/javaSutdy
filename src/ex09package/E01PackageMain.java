@@ -25,7 +25,7 @@ public class E01PackageMain {
 		System.out.println("utilDate="+ utilDate);
 		
 		// 패키지의 풀경로를 이용해서 인스턴스 생성
-		java.sql.Date sqlDate = new java.sql.Date(utilDate.getTime()
+		java.sql.Date sqlDate = new java.sql.Date(utilDate.getTime());
 		System.out.println("sqlDate="+ sqlDate);
 
 		

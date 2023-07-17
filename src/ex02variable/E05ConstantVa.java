@@ -3,8 +3,6 @@ package ex02variable;
 public class E05ConstantVa {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		
 		/*
 		 상수 : 저장된 값이 변하지 않는 메모리의 종류로 변수를 선언한 후 앞에 final을 붙여준다

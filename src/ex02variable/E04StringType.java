@@ -3,7 +3,6 @@ package ex02variable;
 public class E04StringType {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/*
 		 String클래스 : 참조형 변수로써 기본자료형이 아닌 클래스로 문자열을 저장하고, 조작하는 기능을 가지고 있다.

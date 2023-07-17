@@ -85,7 +85,6 @@ public class E01WrapperClass2 {
 		System.out.println(Character.isLowerCase('a')); 
 		System.out.println(Character.isUpperCase('Z')); 
 		System.out.println(Character.isLowerCase('가')); 
-	}
 
 
 		/*
@@ -95,21 +94,20 @@ public class E01WrapperClass2 {
 				String클래스에 정의된 메소드. 
 		*/
 	   
-	   String whiteString = "h e l l     o";
+	   String whiteString = "h e  l  l    o";
 	   //char형 배열로 변환한다.
 	   char[] chArr = whiteString.toCharArray();
-	   
 	   int whiteCnt = 0;
 	   
 	   //문자의 갯수만큼 반목한다.
-	   for(int i=0 ; i<caArr.length ; i++) {
+	   for(int i=0 ; i<chArr.length ; i++) {
 		   //i번째 문자가 공백이라면 true를 반환한다.
 		  if(Character.isWhitespace(chArr[i])) {
 			  // 공백문자이면 1증가시킨다.
 			  whiteCnt++;
 		  }
 	   }
-	   System.out.println("총공백수:"+ whiteCnt); 
+	   System.out.println("총공백수:"+ whiteCnt);
 
 	}
 

@@ -3,7 +3,6 @@ package ex02variable;
 public class E06EscapeSequence {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		 // tab(탭) 기능으로 스페이스 4칸이 띄워진다.
 		 System.out.println("4월엔 벚꽃~~!");

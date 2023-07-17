@@ -3,7 +3,6 @@ package ex02variable;
 public class E01JunsuType {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		/*
 		 정수자료형
 		 -byte, short, int, long 타입(형)이 있다.

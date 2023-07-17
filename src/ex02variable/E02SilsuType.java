@@ -3,7 +3,6 @@ package ex02variable;
 public class E02SilsuType {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/*
 		 실수자료형

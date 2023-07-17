@@ -3,7 +3,6 @@ package ex02variable;
 public class E07TypeCasting {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/*
 		 자동형변환 : 작은자료형의 데이터를 큰자료형에 대입할때 자동으로 형변환이 일어난다.
